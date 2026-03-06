@@ -8,18 +8,15 @@
 
 ---
 
-Somewhere between frontend and backend, between idea and execution, between *"this is probably fine"* and *"let me just refactor this one thing."*
+I finish what matters. I abandon what doesn't. I've shipped things that work, broken things that needed breaking, and learned something useful every time.
 
 ---
 
-## Current Obsessions
-
-| Craft | Depth |
-|---|---|
-| Frontend | ████░ |
-| AI / LLMs | ████░ |
-| Design | ███░░ |
-| "It depends" | █████ |
+```
+specialization  ░░░░░░░░░░  0%
+curiosity       ██████████  MAX
+"it depends"    ██████████  MAX
+```
 
 ---
 
