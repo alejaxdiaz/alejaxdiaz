@@ -1,4 +1,4 @@
-# JACK OF ALL
+# Jack of all, Master of None
 ## *...and proud of the distance traveled between each craft*
 
 ---
